@@ -1,3 +1,5 @@
+# Double Well Potential with MCMC (Group C)
+
 $\textbf{\textit{Bibliography}}$
 
 [1]  S. Mittal, M. J. Westbroek, P. R. King, and D. D. Vvedensky, “Path integral Monte Carlo method for
