@@ -9,3 +9,6 @@ the quantum anharmonic oscillator”, Eur. J. Phys. 41, 055401 (2020). https://i
 clidean time, DESY Summer Student Programme (2014). https://www-zeuthen.desy.de/students/2014/reports/RodgersRaes.pdf
 
 [3] Foreman-Mackey, Daniel, et al. ‘Emcee: The MCMC Hammer’. Publications of the Astronomical Society of the Pacific, vol. 125, no. 925, IOP Publishing, Mar. 2013, pp. 306–312, https://iopscience.iop.org/article/10.1086/670067.
+
+
+RUNNING THE CODE: It will take a long time to run the entire notebook from the beginning. It is important to comment out the eta optimization section or else it would take even longer.
